@@ -1,0 +1,33 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Output directories & recordings
+recordings/
+logs/
+*.log
+*.mp4
+*.f32
+*.wav
+*.jsonl
+
+# Backup and scratch files
+*.before_*
+*.bak
+*.swp
+*~
+# IDE, Agent & OS
+.agents/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
