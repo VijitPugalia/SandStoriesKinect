@@ -226,6 +226,13 @@ SandStoriesKinect/
 
 ---
 
+## Contact
+
+For questions about this software or the SandStories research, contact
+Vijit Vijay Pugalia at [VijitPugalia@gmail.com](mailto:VijitPugalia@gmail.com).
+
+---
+
 ## 📜 License & Research Attribution
 
 This software is developed for the **SandStories** research initiative. All rights reserved.
